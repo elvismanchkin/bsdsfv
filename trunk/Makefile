@@ -1,5 +1,5 @@
 #
-# $Id: Makefile,v 1.4 2003/10/05 00:35:34 webbie Exp $
+# $Id$
 #
 
 CFLAGS += -Wall
